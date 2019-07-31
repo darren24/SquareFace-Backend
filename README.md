@@ -1,4 +1,4 @@
-# SquareFace-api - v2
+# SquareFace-api - v2 (For the deployed version of website go to https://squareface2.herokuapp.com/ ) 
 Final project for Udemy course
 
 1. Clone this repo
